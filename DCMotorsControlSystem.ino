@@ -1,9 +1,7 @@
 int IN1 = 5;
 int IN2 = 4;
-int ENA = 6;
 int IN3 = 3;
 int IN4 = 2;
-int ENB = 1;
 int sw = 12;
 
 void setup() {
