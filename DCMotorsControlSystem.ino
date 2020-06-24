@@ -14,7 +14,7 @@ pinMode(sw,INPUT_PULLUP);
 
 void loop() {
 
-  if ( digitalRead(sw) == 0) {
+  if (digitalRead(sw) == 0) {
     digitalWrite(IN1,0);
     digitalWrite(IN2,1);
     digitalWrite(IN4,1);
